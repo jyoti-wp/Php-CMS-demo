@@ -7,8 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+
+<!-- this is thed first line -->
     <h1>
-    <?php ?>
+    <?php echo "Hello "; ?>
     </h1>
 </body>
 </html>
