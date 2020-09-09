@@ -10,7 +10,15 @@
 
 <!-- this is thed first line -->
     <h1>
-    <?php echo "Hello "; ?>
+    <?php 
+    $number = array('juanita', 'jose', 'maria'); 
+    
+    echo $number[2] . "<br>";
+    
+    $names = array ("first_name" =>);
+    
+    ?>
+    
     </h1>
 </body>
 </html>
