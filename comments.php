@@ -13,9 +13,11 @@
     <?php 
     $number = array('juanita', 'jose', 'maria'); 
     
-    echo $number[2] . "<br>";
+    // echo $number[2] . "<br>";
     
-    $names = array ("first_name" =>);
+    $names = array ("first_name" => 'Edwin');
+
+    print_r($names);
     
     ?>
     
